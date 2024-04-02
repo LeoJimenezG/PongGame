@@ -1,4 +1,4 @@
-# pongGame
+# Pong Game
 Classic Pong Game using the Turtle library
 
 - The game is made for two players
