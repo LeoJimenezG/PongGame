@@ -1,5 +1,5 @@
 # Pong Game
-Classic Pong Game using the Turtle library
+Classic Pong Game using the Turtle library and OOP paradigm
 
 - The game is made for two players
 - Left player moves with: "w (up)" and "s (down)"
